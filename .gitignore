@@ -1,0 +1,8 @@
+# Backup files
+*.s#?
+*.b#?
+*.l#?
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.fcstd1
