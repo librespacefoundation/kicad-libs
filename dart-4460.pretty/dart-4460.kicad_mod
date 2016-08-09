@@ -2787,7 +2787,7 @@
   (pad "" thru_hole circle (at -6.91 27.91) (size 3 3) (drill 1.5) (layers *.Cu *.Mask F.SilkS))
   (pad "" thru_hole circle (at 6.9 -18.75) (size 3 3) (drill 1.5) (layers *.Cu *.Mask F.SilkS))
   (pad "" thru_hole circle (at -6.91 -18.75) (size 3 3) (drill 1.5) (layers *.Cu *.Mask F.SilkS))
-  (model ../../../../../home/azisi/Documents/kicad-libs/dart-4460.3dshapes/dart-4460.wrl
+  (model dart-4460.3dshapes/dart-4460.wrl
     (at (xyz 0 -0.665 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
