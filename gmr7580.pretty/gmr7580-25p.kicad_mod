@@ -54,7 +54,7 @@
   (pad 25 thru_hole circle (at 6.68 1.91) (size 1.2 1.2) (drill 0.6) (layers *.Cu *.Mask F.SilkS))
   (pad "" thru_hole circle (at 12.255 0) (size 2.8 2.8) (drill 2.5) (layers *.Cu *.Mask F.SilkS))
   (pad "" thru_hole circle (at -12.255 0) (size 2.8 2.8) (drill 2.5) (layers *.Cu *.Mask F.SilkS))
-  (model ../../../../../home/liknus/git/lsf-kicad-libs/gmr7580.3dshapes/gmr7580-25p.wrl
+  (model gmr7580.3dshapes/gmr7580-25p.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
