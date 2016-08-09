@@ -35,7 +35,7 @@
   (pad 15 smd rect (at -0.325 -1.9) (size 0.3 0.72) (layers F.Cu F.Paste F.Mask))
   (pad 16 smd rect (at -0.975 -1.9) (size 0.3 0.72) (layers F.Cu F.Paste F.Mask))
   (pad 17 smd rect (at 0 0) (size 2.5 2.5) (layers F.Cu F.Paste F.Mask))
-  (model ../../../../../home/liknus/git/lsf-kicad-libs/ADT7420.3dshapes/ADT7420.wrl
+  (model ADT7420.3dshapes/ADT7420.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
