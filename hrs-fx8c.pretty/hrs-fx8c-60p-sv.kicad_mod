@@ -78,7 +78,7 @@
   (pad 5 smd rect (at -6.3 2.25) (size 0.35 2.5) (layers F.Cu F.Paste F.Mask))
   (pad "" np_thru_hole circle (at 11.1 1.5) (size 0.7 0.7) (drill 0.7) (layers *.Cu *.Mask F.SilkS))
   (pad "" np_thru_hole circle (at -11.1 1.5) (size 1.1 1.1) (drill 1.1) (layers *.Cu *.Mask F.SilkS))
-  (model ../../../../../home/liknus/git/lsf-kicad-libs/hrs-fx8c.3dshapes/fx8c-60p-sv.wrl
+  (model hrs-fx8c.3dshapes/fx8c-60p-sv.wrl
     (at (xyz -0.484 0 -0.155))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz -90 0 0))
